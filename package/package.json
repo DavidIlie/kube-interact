@@ -1,0 +1,19 @@
+{
+    "name": "kube-interact",
+    "version": "0.0.1",
+    "description": "A simple way to interact with your Kubernetes Cluster!",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/davidilie/kube-interact.git"
+    },
+    "author": "DavidIlie",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/davidilie/kube-interact/issues"
+    },
+    "homepage": "https://github.com/davidilie/kube-interact#readme",
+    "dependencies": {
+        "kubernetes-client": "^9.0.0"
+    }
+}

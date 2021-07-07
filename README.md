@@ -1,8 +1,8 @@
 ## Structure
 
-| Codebase           |           Description           |
-| :----------------- | :-----------------------------: |
-| [package](package) |   kube-interact NPMJS package   |
-| [api](api)         | REST API for [package](package) |
-| [web](web)         |   NextJS app using [api](api)   |
-| [action](action)   |   kube-interact GitHub action   |
+| Codebase                           |           Description           |
+| :--------------------------------- | :-----------------------------: |
+| [package](package)                 |        package on npmjs         |
+| [api](api)                         | REST api for [package](package) |
+| [web](web)                         |   nextjs app using [api](api)   |
+| [pipeline-github](pipeline-github) |          github action          |
